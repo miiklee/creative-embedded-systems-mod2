@@ -7,3 +7,4 @@ This repository includes code to take in the sensor values and then print them t
 It also has stl files for 3D printing an enclosure for the above sensors that looks like a hexbug nano and 2 photos I drew of a hexbug in 2 colorways that would ideally switch from one to the other.
 
 <img src= "https://github.com/miiklee/creative-embedded-systems-mod2/blob/main/croix_green.png" style= "width: 500px">
+![gif](https://github.com/miiklee/miiklee.github.io/blob/main/_posts/ezgif.com-gif-maker%20(1).gif)
